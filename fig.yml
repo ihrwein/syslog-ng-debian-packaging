@@ -1,0 +1,4 @@
+debianpackaging:
+    build: .
+    volumes:
+        - .:/packaging
